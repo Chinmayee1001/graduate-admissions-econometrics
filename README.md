@@ -1,5 +1,3 @@
-# graduate-admissions-econometrics
-Econometric analysis of graduate admission probability using CGPA, GRE and SOP from an Indian Perspective
 # Graduate Admissions Prediction – Econometric Analysis
 
 ## Overview
@@ -10,6 +8,9 @@ The model estimates admission probability as a function of:
 - Undergraduate CGPA
 - GRE Scores
 - Statement of Purpose (SOP)
+
+## Data Source
+- Kaggle Database: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions 
 
 ## Methodology
 - Probability-based regression framework (logit / OLS on transformed probabilities)
